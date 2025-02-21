@@ -7,9 +7,11 @@ You can simulate the project on Wokwi for Arduino Mega and SSD1306 here:
 Included Games
 
 🐍 Snake
+
 A classic arcade game where the player controls a growing snake that moves across the screen. The goal is to eat food to grow longer while avoiding collisions with itself and the screen boundaries.
 
 💥 Chain Reaction
+
 A strategy-based multiplayer game where players take turns placing orbs on a grid.
 
 Orbs "explode" when their count exceeds the number of adjacent cells, spreading to neighboring spaces.
@@ -22,6 +24,7 @@ A cell can hold up to its neighbor count minus one before exploding:
 The game continues until only one kind of orb is left on board.
 
 🎯 Artillery Game (Inspired by Pocket Tanks & Worms)
+
 A 2-player turn-based strategy game where players control tanks and aim to damage their opponent by adjusting angle and power while considering wind and terrain.
 
 Gameplay
