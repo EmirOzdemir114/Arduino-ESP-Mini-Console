@@ -21,7 +21,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, RESET_PIN);
 Adafruit_SH1106G display = Adafruit_SH1106G(128, 64,OLED_MOSI, OLED_CLK, OLED_DC, RESET_PIN, OLED_CS);
 #endif
 
-//left, up, right, down, move, place/shoot , weapon list
+//GPIO pins corresponding to
+//left, up, right, down, move, place/shoot , weapon list in that order.
 const uint8_t buttons[7] = {33,34,35,32,25,26,27}; 
 //const uint8_t buttons[7] = {5,4,3,6,7,14,15}; 
 
