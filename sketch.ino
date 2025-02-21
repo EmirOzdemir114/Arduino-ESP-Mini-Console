@@ -36,7 +36,7 @@ void setup() {
   #ifdef DEBUG
   Serial.begin(9600);
   #endif
-  debugPrint("b");
+
 
   #ifdef USE_SSD1306
   if (!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
@@ -57,8 +57,6 @@ void setup() {
     pinMode(buttons[i], INPUT_PULLUP);
   }
 
-  debugPrint("a");
-
   //to turn the screen upside down
   //display.setRotation(2); 
 
@@ -69,21 +67,17 @@ void setup() {
   display.setTextColor(OLED_WHITE);
   display.setCursor(0, 20);
 
-  debugPrint("c");
-
-
   for (uint8_t i = 32; i > 5; i -= 3) {
     display.fillCircle(4, 32, i, OLED_INVERSE);
     display.display();
     delay(10);
   }
-  debugPrint("d");
+
 
   selection = UNSTABLE;
   DrawMenu();
-  debugPrint("a");
-}
 
+}
 
 
 void loop(){
