@@ -5,6 +5,7 @@ You can simulate the project on Wokwi for Arduino Mega and SSD1306 here:
 🔗 [Wokwi Simulation](https://wokwi.com/projects/423497131298398209) (May take some time to compile and may be slower)
 
 Included Games
+
 🐍 Snake
 A classic arcade game where the player controls a growing snake that moves across the screen. The goal is to eat food to grow longer while avoiding collisions with itself and the screen boundaries.
 
