@@ -2,7 +2,7 @@ Simple Retro-Style Games for ESP32/ESP8266/Arduino Mega & SH110X/SSD1306 OLED Di
 This project features three classic games optimized for microcontrollers: Snake, Chain Reaction (Unstable), and an Artillery game inspired by Worms and Pocket Tanks.
 
 You can simulate the project on Wokwi for Arduino Mega and SSD1306 here:
-🔗 [Wokwi Simulation](https://wokwi.com/projects/423497131298398209) (May take some time to compile)
+🔗 [Wokwi Simulation](https://wokwi.com/projects/423497131298398209) (May take some time to compile and may be slower)
 
 Included Games
 🐍 Snake
