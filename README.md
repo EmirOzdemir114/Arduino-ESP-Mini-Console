@@ -17,6 +17,7 @@ A cell can hold up to its neighbor count minus one before exploding:
 - Middle of the grid → Max 3 orbs (4 neighbors).
 - Corner cells → Max 1 orb (2 neighbors).
 - Edge cells → Max 2 orbs (3 neighbors).
+
 The game continues until only one kind of orb is left on board.
 
 🎯 Artillery Game (Inspired by Pocket Tanks & Worms)
