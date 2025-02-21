@@ -23,20 +23,20 @@ The game continues until only one kind of orb is left on board.
 A 2-player turn-based strategy game where players control tanks and aim to damage their opponent by adjusting angle and power while considering wind and terrain.
 
 Gameplay
--Each player gets 9 turns to deal as much damage as possible.
--The player who accumulates the most points wins.
--Before the match, players select 9 weapons from 3 randomly presented choices per slot.
--The game randomly selects one of three maps, and Player 1 starts.
--Each round, players can move, aim, select a weapon, and fire.
--Wind strength and direction (0-15) change every round.
+- Each player gets 9 turns to deal as much damage as possible.
+- The player who accumulates the most points wins.
+- Before the match, players select 9 weapons from 3 randomly presented choices per slot.
+- The game randomly selects one of three maps, and Player 1 starts.
+- Each round, players can move, aim, select a weapon, and fire.
+- Wind strength and direction (0-15) change every round.
 
 Weapons
--Bomb – Standard weapon (15 damage) with a small explosion.
--TNT – Stronger bomb (25 damage) with a larger blast radius.
--Stream – Multi-hit projectile that doesn't affect terrain but is more affected by wind.
--Pepper – Fires small pellets with a wide spread, lightly scratching the terrain.
--Mole – A powerful explosive that can burrow underground before detonating.
--Jetpack – Instead of firing, launches the player to a new position.
--Wall – Upon impact, the projectile creates a solid pillar, altering the battlefield.
+- Bomb – Standard weapon (15 damage) with a small explosion.
+- TNT – Stronger bomb (25 damage) with a larger blast radius.
+- Stream – Multi-hit projectile that doesn't affect terrain but is more affected by wind.
+- Pepper – Fires small pellets with a wide spread, lightly scratching the terrain.
+- Mole – A powerful explosive that can burrow underground before detonating.
+- Jetpack – Instead of firing, launches the player to a new position.
+- Wall – Upon impact, the projectile creates a solid pillar, altering the battlefield.
 
 
