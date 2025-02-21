@@ -29,7 +29,7 @@ Gameplay
 - Before the match, players select 9 weapons from 3 randomly presented choices per slot.
 - The game randomly selects one of three maps, and Player 1 starts.
 - Each round, players can move, aim, select a weapon, and fire.
-- Wind strength and direction (0-15) change every round.
+- Wind strength (0-15) and direction change every round.
 
 Weapons
 - Bomb – Standard weapon with a small explosion.
