@@ -32,8 +32,8 @@ Gameplay
 - Wind strength and direction (0-15) change every round.
 
 Weapons
-- Bomb – Standard weapon (15 damage) with a small explosion.
-- TNT – Stronger bomb (25 damage) with a larger blast radius.
+- Bomb – Standard weapon with a small explosion.
+- TNT – Stronger bomb with a larger blast radius.
 - Stream – Multi-hit projectile that doesn't affect terrain but is more affected by wind.
 - Pepper – Fires small pellets with a wide spread, lightly scratching the terrain.
 - Mole – A powerful explosive that can burrow underground before detonating.
